@@ -37,7 +37,7 @@ If you want to test the training of the model, you need to download the data set
 * download the pre-trained model file: https://drive.google.com/file/d/1e88lx2AMlgiXJjyt2IJex0-6QPAysfE_/view?usp=sharing`
 * to start the server use docker-compose 
 ```
- docker-compose up -d
+ docker-compose up
 ```
 or run commands manually 
 ```
